@@ -75,7 +75,8 @@ print(summary)
 
 
 ### Output:
-![output](1.png)
+
+![a1](https://github.com/Navyavenkat/Ex-7-AAI/assets/94165327/a3f03162-db38-4966-9642-11db68901f5f)
 
 <H3>Result:</H3>
 
